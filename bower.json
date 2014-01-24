@@ -1,5 +1,6 @@
 {
   "name": "MutationObserver",
+  "version": "0.2.0",
   "homepage": "https://github.com/Polymer/MutationObservers",
   "authors": [
     "The Polymer Authors"
@@ -13,7 +14,6 @@
     "WeakMap": "~0.2.0"
   },
   "license": "BSD",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
